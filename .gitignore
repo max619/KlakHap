@@ -8,10 +8,12 @@ Desktop.ini
 # Code Editors
 /.idea
 /.vscode
+/.vs
 /*.csproj
 /*.sln
 *.swp
 *.vcxproj.user
+/obj
 
 # Unity
 /Library
